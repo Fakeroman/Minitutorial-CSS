@@ -1,0 +1,54 @@
+#px{
+  /*5 pixeles*/
+font-size: 5px
+}
+#em{
+  /*
+el em es relativo al tamaño de fuente del elemento (5em significa 5 veces el tamaño de la fuente actual)*/
+font-size: 5em
+}
+#ex{
+  /*el ex es relativo a la altura x de la fuente actual */
+font-size: 5ex
+}
+#rem{
+  /*el rem es relativo al tamaño de fuente del elemento raíz*/
+font-size: 5rem
+}
+#in{
+  /*5 pulgadas*/
+font-size: 5in
+}
+#cm{
+  /*5 centimetros*/
+font-size: 5cm
+}
+#mm{
+  /*5 milimetros*/
+font-size: 5mm
+}
+#pc{
+  /*5 picas*/
+font-size: 5pc
+}
+#pt{
+  /*5 puntos*/
+font-size: 5pt
+}
+#porcentaje{
+  /*el % es relativo al elemento padre*/
+font-size: 5%
+}
+
+#margin{
+  /*Margin se utiliza para crear margenes por cada lado de un elemento*/
+  margin: 10px 10px 10px 10px;
+  background-color: lightblue;
+  border: 1px solid black;
+}
+#padding{
+  /*Padding se utiliza para configurar el relleno por cada lado de un elemento*/
+  padding: 10px 10px 10px 10px;
+  background-color: lightblue;
+  border: 1px solid black;
+}
